@@ -2,7 +2,7 @@
 An article for the progress of all humanity
 
 part1
-==============================================================
+===========================
 Not All Chinese Are the CCP
 
 We love our country, not the Party.
@@ -44,8 +44,9 @@ Feel free to tweak any phrase or add your own name/handle at the bottom. Good lu
 
 如果没有，那就来和我们聊聊吧！我们在 VRChat 分享真实故事，也想倾听你的观点。让理解架起桥梁，而不是怀疑的高墙。
 
-===============================================
+
 part2 for 中国小粉红.
+============
 注意以下内容为o4mini 世界上最强大的推理模型之一生成. 背后均有数据支持。
 
 
@@ -109,14 +110,15 @@ part2 for 中国小粉红.
 这三问，不是情绪宣泄，而是现实铁律。
 
 
-============================================================================================================================
-part3 
 
+part3 
+=================
 作者对两岸问题的回答: 基于世界国际组织给出的数据 表示 台湾是亚洲地区幸福指数第一，而大陆作为世界强国，幸福指数低的可怜，请你换位思考一下，如果你是台湾人 你会支持统一吗？或者你有考虑过 统一对 台湾有任何好处吗？ 
 “Based on data provided by international organizations, Taiwan ranks first in Asia in terms of happiness index, whereas the mainland—despite being a global power—has a pitifully low happiness index. Please put yourself in a Taiwanese person’s shoes: if you were from Taiwan, would you support reunification? And have you considered any benefits that reunification might bring to Taiwan?”
 
-===============================================================================================================================
-part4 for china  not others
+
+part4 
+=================
 给大家介绍一下伟人 毛泽东
 以下是关于毛泽东的核心总结，你可以直接转给对方：
 
